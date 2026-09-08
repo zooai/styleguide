@@ -48,4 +48,4 @@ is not a format for this work.
 
 ## Licence
 
-[CC0 1.0 Universal](LICENSE). Take it.
+`MIT OR Apache-2.0`, per [HIP-0137](https://github.com/hanzoai/hips/blob/main/HIPs/hip-0137-one-license.md).
