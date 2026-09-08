@@ -1,0 +1,15 @@
+# Zoo Style Guide
+
+> The delta for the zooai org. Every shared convention lives in the canonical
+> guide at hanzoai/styleguide, which is public and CC0; this file names only
+> what is different about Zoo — the registry, the domains, where proposals and
+> papers go.
+
+## Canonical
+
+- [Style guide index](https://raw.githubusercontent.com/hanzoai/styleguide/main/llms.txt): commits, naming, comments, architecture, TypeScript, Go, whitespace
+
+## Zoo
+
+- [Zoo delta](https://raw.githubusercontent.com/zooai/styleguide/main/README.md): org, registry, domains, ZIPs, papers
+- [Licence](https://raw.githubusercontent.com/zooai/styleguide/main/LICENSE): CC0 1.0 Universal
