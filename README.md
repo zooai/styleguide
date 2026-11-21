@@ -1,5 +1,7 @@
 # Zoo Style Guide
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zooai/styleguide&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zooai/styleguide&ref=main&action=edit)
+
 The conventions are shared across the estate and live in one place:
 
 **[hanzoai/styleguide](https://github.com/hanzoai/styleguide)** — commits,
